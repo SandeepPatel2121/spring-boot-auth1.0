@@ -1,0 +1,11 @@
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\entitys\Role.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\controllers\RedirectController.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\utils\CustomErrorController.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\services\UserService.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\daos\UserDao.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\security\SecurityConfig.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\serviceImpls\UserServiceImpl.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\entitys\User.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\security\MyUserDetailService.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\security\MyUser.java
+E:\Testing\Authentication and Authorization\project-structure\src\main\java\com\demo\demo\DemoApplication.java

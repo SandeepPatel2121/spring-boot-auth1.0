@@ -1,0 +1,11 @@
+com\demo\demo\DemoApplication.class
+com\demo\demo\services\UserService.class
+com\demo\demo\security\MyUserDetailService.class
+com\demo\demo\security\SecurityConfig.class
+com\demo\demo\entitys\User.class
+com\demo\demo\security\MyUser.class
+com\demo\demo\controllers\RedirectController.class
+com\demo\demo\entitys\Role.class
+com\demo\demo\serviceImpls\UserServiceImpl.class
+com\demo\demo\daos\UserDao.class
+com\demo\demo\utils\CustomErrorController.class
